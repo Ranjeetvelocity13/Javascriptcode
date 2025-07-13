@@ -67,5 +67,6 @@ let  lang = "Python"
 let  lan1 ='Java';
 console.log(lang)
 console.log(lan1)
+console.log(lan1)
 
     
